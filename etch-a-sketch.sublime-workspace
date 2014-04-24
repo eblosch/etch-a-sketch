@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clearI",
+				"clearInterval  (function)"
+			],
+			[
+				"setIn",
+				"setInterval  (function)"
+			],
+			[
+				"relati",
+				"relative  (value)"
+			],
+			[
+				"bro",
+				"border-width"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"sess",
+				"session_id"
+			],
+			[
+				"subpage",
+				"subpage_name  (variable)"
+			],
+			[
+				"bxsh",
+				"bxsh-r	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:spread }rgb(${6:0}, ${7:0}, ${8:0});"
+			],
+			[
+				"brad",
+				"border-radius:   (property)"
+			],
+			[
+				"bsha",
+				"bxsh-ra	box-shadow: ${1:inset }${2:h} ${3:v} ${4:blur} ${5:spread }rgba(${6:0}, ${7:0}, ${8:0}, .${9:5});"
+			],
+			[
+				"ass",
+				"assn	assertNull"
+			],
+			[
+				"doc",
+				"doc_c	Class"
+			],
+			[
+				"_",
+				"$_	GET['…']"
+			],
+			[
+				"comm",
+				"comm-section	Comment - Full section comment"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 51.0,
+		"selected_items":
+		[
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"join",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"copy as",
+				"File: Copy as Tag style"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"htt",
+				"HTTP Requester"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				":wq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"etch",
+				"Fetch: Manage"
+			],
+			[
+				"snippet",
+				"Snippet: Class"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"alig",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"packge",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pacage",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eric/WebDevelopment/Sites/js-slider/index.html",
+		"/Users/eric/WebDevelopment/Sites/js-slider/css/slider.css",
+		"/Users/eric/WebDevelopment/Sites/js-slider/js/slider.js",
+		"/Users/eric/WebDevelopment/Sites/js-slider/images/conf-24th-promo-2012-12-header.png",
+		"/Users/eric/WebDevelopment/Sites/js-slider/js-slider/images",
+		"/private/var/folders/0v/fm9vn2nn3337l2pl8xr5v9rm0000gn/T/da47fa29-6e7d-48b4-8358-5644c8b8c5b8/var/www/vhosts/aapainmanage.org/httpdocs/wp-content/themes/bsacademy/templates/template_credentialing.php",
+		"/private/var/folders/0v/fm9vn2nn3337l2pl8xr5v9rm0000gn/T/da47fa29-6e7d-48b4-8358-5644c8b8c5b8/var/www/vhosts/aapainmanage.org/httpdocs/wp-content/themes/bsacademy/front-page.php",
+		"/Users/eric/Desktop/litweaver/assets/css/main.css",
+		"/Users/eric/Desktop/litweaver/index.html",
+		"/Users/eric/WebDevelopment/Apps/odin/index.html",
+		"/Users/eric/WebDevelopment/Apps/odin/css/main.css",
+		"/Users/eric/WebDevelopment/Sites/academy3.0/wp-content/themes/bsacademy/less/custom.less",
+		"/Users/eric/Desktop/photo.jpg",
+		"/Users/eric/WebDevelopment/Apps/odin/css/normalize.css",
+		"/Users/eric/WebDevelopment/Apps/odin/css/reset.css",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/eric/Desktop/rems-template.html",
+		"/Users/eric/Desktop/community-connect.html",
+		"/private/var/folders/0v/fm9vn2nn3337l2pl8xr5v9rm0000gn/T/2d3ab51f-9ae3-43d5-b9bb-9098e6910a79/home/186764/domains/litweaver.com/html/index.html",
+		"/private/var/folders/0v/fm9vn2nn3337l2pl8xr5v9rm0000gn/T/b2ce3073-2f04-468d-88d1-a2dcb7132a74/var/www/vhosts/aapainmanage.org/cmsdocs/wp-content/themes/bsacademy/single-articles.php",
+		"/Users/eric/WebDevelopment/Sites/litweaver/assets/css/main.css",
+		"/Users/eric/WebDevelopment/Sites/litweaver/assets/js/jquery-func.js",
+		"/Users/eric/WebDevelopment/Sites/litweaver/index.html",
+		"/private/var/folders/0v/fm9vn2nn3337l2pl8xr5v9rm0000gn/T/da47fa29-6e7d-48b4-8358-5644c8b8c5b8/var/www/vhosts/aapainmanage.org/httpdocs/wp-content/themes/bsacademy/single-articles.php",
+		"/Applications/MAMP/conf/apache/sites",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/private/var/folders/0v/fm9vn2nn3337l2pl8xr5v9rm0000gn/T/da47fa29-6e7d-48b4-8358-5644c8b8c5b8/var/www/vhosts/aapainmanage.org/httpdocs/wp-content/themes/bsacademy/templates/template_resources_articles.php",
+		"/private/var/folders/0v/fm9vn2nn3337l2pl8xr5v9rm0000gn/T/da47fa29-6e7d-48b4-8358-5644c8b8c5b8/var/www/vhosts/aapainmanage.org/httpdocs/wp-content/themes/bsacademy/page-pain-practitioner-articles.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/index.html",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/php sandbox.sublime-project",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/css/styles.css",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/phpunit.xml",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/first/test.html",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/HasManyThroughTest.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/file/file.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/test.js",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/eric/Desktop/survey.txt",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/first/test.js",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/zetacomponents/authentication/docs/tutorial/tutorial_multiple_credentials.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/utility-classes/classes/html.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/zetacomponents/authentication/tests/filters/htpasswd/htpasswd_test.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/oo/inc/header.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/temp.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/helpers/SnakeCase_PHPUnit_Framework_TestCase.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/first/php101.php",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/javascript/script.sublime-snippet",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/javascript/script.sublime-settings",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/classes/database.php",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/test/hello.sublime-snippet",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/blog/db.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/blog/functions.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/blog/blog.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/zetacomponents/authentication/src/math/bcmath_library.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/zetacomponents/authentication/src/exceptions/typekey_exception.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/fixtures/books.csv",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/first/friends.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/fixtures/rm-bldg.csv",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/file-functions/index.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/mysql_connect/functions.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/fixtures/user_newsletters.csv",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/file/sample.txt",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/utility-classes/classes/file.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/utility-classes/classes/index.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/file/index.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/utility-classes/classes/sample.txt",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/html.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/pdo/functions.php",
+		"/Users/eric/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/pdo/config.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/blog/view/index.tmpl.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/blog/config.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/zetacomponents/authentication/src/exceptions/openid_redirect_exception.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/zetacomponents/authentication/src/options/session_options.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/blog/single.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/lib/adapters/SqliteAdapter.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/lib/Validations.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/ValidatesInclusionAndExclusionOfTest.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/models/Venue.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/email_results.txt",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/zetacomponents/authentication/src/exceptions/openid_exception.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/zetacomponents/authentication/src/filters/openid/openid_association.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/helpers/DatabaseLoader.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/lib/adapters/OciAdapter.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/oo/sessions/login.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/arrays/index.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/test/models/AuthorAttrAccessible.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/php-activerecord/php-activerecord/ActiveRecord.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/composer/autoload_real.php",
+		"/Users/eric/WebDevelopment/Sites/sandbox/php/composer/vendor/autoload.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"authors",
+			"fun.",
+			"h1",
+			"authors",
+			"ul",
+			"overrid",
+			"slider-box-v1",
+			"line-heigh",
+			"35",
+			"<link rel=\"stylesheet\" href=\"css/main.css\">",
+			"\n    ",
+			"outline",
+			"tab",
+			"inclu",
+			"btn",
+			"button",
+			"border-bottom",
+			"leftcolumncontent",
+			"member",
+			"h1",
+			"navbar-main",
+			"team",
+			"smoothscroll",
+			"jquery",
+			"about",
+			"white",
+			"fefefe",
+			"fcfcfc",
+			"h2",
+			"fff",
+			"j2",
+			"hr",
+			"white",
+			"hr",
+			"greywrap",
+			"grey",
+			"wrap",
+			"h1",
+			"font-size",
+			"header",
+			"60px",
+			"logo",
+			"icon",
+			"shield",
+			"nav",
+			"font-family",
+			"shield",
+			", referer: http://www.aapainmanage.org/resources/pain-practitioner-articles/",
+			"error_log",
+			"article_pub_display",
+			"is_valid_member",
+			"is_valid_member()",
+			"section_",
+			"error_log",
+			"labore",
+			"incididunt ut labore et dolore magna aliqua.",
+			"Lorem.+",
+			"http://",
+			"://\">",
+			"http://",
+			"http",
+			"stmt",
+			"function",
+			"('</",
+			"</li>",
+			"li",
+			"<ul><li>",
+			"><",
+			"<ul><li>",
+			"å",
+			"eme",
+			"packages",
+			"false",
+			"soda",
+			"stmt",
+			"conn",
+			"stmt",
+			"conn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "etch-a-sketch.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"first/test.html"
+			],
+			[
+				"php",
+				"temp.php"
+			],
+			[
+				"function",
+				"blog/functions.php"
+			],
+			[
+				"temp",
+				"temp.php"
+			],
+			[
+				"db",
+				"blog/db.php"
+			],
+			[
+				"array",
+				"composer/vendor/zetacomponents/authentication/src/math/bcmath_library.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 535.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
