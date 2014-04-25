@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Etch-a-Sketch</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Damion">
+</head>
+<body>
+    <div class="inner">
+
+    <div class="top-panel">
+        <h1 class="header t-centered">Etch-a-Sketch</h1>
+        <div class="menu">
+            <button onclick="javascript:createGrid();return false;">Default Grid</button>
+            <button onclick="javascript:createGrid('trailing');return false;">Trailing Grid</button>
+            <button onclick="javascript:createGrid('color');return false;">Random Color Grid</button>
+        </div>
+    </div>
+
+    <div class="container clearfix"></div>
+
+    </div>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+    <script src="js/etch.js"></script>
+</body>
+</html>
